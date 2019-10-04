@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TFLiteObjectDetection</string>
+    <string name="description_info">Info</string>
+    <string name="request_permission">This sample needs camera permission.</string>
+    <string name="camera_error">This device doesn\'t support Camera2 API.</string>
+    <string name="contentDescriptionBottomSheetArrow">id_bottom_sheet_arrow</string>
+    <string name="contentDescriptionPlus">id_thread_add</string>
+    <string name="contentDescriptionMinus">id_thread_minus</string>
+    <string name="number_of_threads">9</string>
+
+</resources>
